@@ -1,0 +1,11 @@
+{
+  "name": "speed-round-quiz",
+  "version": "1.0.0",
+  "description": "A command-line trivia game built with JavaScript and Node.js.",
+  "main": "quiz.js",
+  "scripts": {
+    "start": "node quiz.js",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
